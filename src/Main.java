@@ -14,7 +14,7 @@ public class Main {
         if (p % 2 == 0 && p != 0) {
             System.out.println("Число " + p + " чётное");
         } else{
-            System.out.println("Число " + p + " нечётное");
+            System.out.println("Число  " + p + " нечётное");
             }
     }
 
